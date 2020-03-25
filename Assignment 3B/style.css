@@ -1,0 +1,18 @@
+body {
+    font-family: 'Hepta Slab', serif;
+    margin:auto;
+    width:80%;
+}
+
+
+div {
+    padding: 10px 10px 10px 10px;
+}
+
+.clock {
+    position:absolute;
+    top:0;
+    right:0;
+    border-style: dotted solid;
+    background:rgb(224, 214, 214);
+}
